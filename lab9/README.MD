@@ -1,8 +1,6 @@
 # SUMMARY
 
-What I feel most comfortable is that lambda can directly use local temporary variables, and it is very troublesome to write functions by itself. Especially when writing multi-threading, if there is variable capture, the parameters are very simple, neither the whole global variable nor the self-defining structure. 
-<br>
-So many memory management problems are gone, and there are a lot of pits.
+What I feel most comfortable is that lambda can directly use local temporary variables, and it is very troublesome to write functions by itself. Especially when writing multi-threading, if there is variable capture, the parameters are very simple, neither the whole global variable nor the self-defining structure. So many memory management problems are gone.
 <br>
 But when I firt knew this expression from class, it confused me and I also think that it may be a little confusing for developers who are good at JAVA. 
 <br>
